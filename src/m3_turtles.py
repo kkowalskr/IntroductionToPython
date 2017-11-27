@@ -116,6 +116,8 @@ joe = rg.SimpleTurtle()
 joe.backward(100)
 joe.right(64)
 joe.forward(30)
+joe.left(120)
+joe.forward(10)
 
 ########################################################################
 #
