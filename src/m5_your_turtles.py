@@ -2,11 +2,11 @@
 Your chance to explore Loops and Turtles!
 
 Authors: David Mutchler, Dave Fisher, Valerie Galluzzi, Amanda Stouder,
-         their colleagues and PUT_YOUR_NAME_HERE.
+         their colleagues and Kenny Kowalski.
 """
 ########################################################################
 # DONE: 1.
-# On Line 5 above, replace  Kenny Kowalski  with your own name.
+# On Line 5 above, replace  PUT_YOUR-NAME-HERE  with your own name.
 ########################################################################
 
 ########################################################################
